@@ -1,0 +1,11 @@
+The algorithm for finding is similar doctors
+
+First find the doctors with in the area code matching the given doctors speciality.
+And the doctor recommendations will be displayed by review score descending
+
+Then find the doctors outside your area but matching the given doctors speciality.
+And the doctor recommendations will be displayed by review score descending.
+
+
+In the future I want to extend this doctor recommendation algorithm by even distance 
+if you have doctors have same rating with in given area and doctor nearest the users location/doctors location will be displayed first.
